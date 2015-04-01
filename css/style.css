@@ -1,0 +1,55 @@
+body{
+  background: #ebe5e9;
+  font-family: arial;
+}
+
+body p{
+  color: #14923e;
+  line-height: 0.2;
+}
+
+/* CONTENT */
+
+
+#wrapper{
+  width: 350px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+
+.container{
+  width: 350px;
+}
+
+.container hr.blue {
+  background: #0b5199;
+  height: 15px;
+  margin: 0px;
+}
+
+.container hr.green {
+  background: #139a3b;
+  height: 15px;
+  margin: 0px;
+}
+
+.container h1 {
+  margin: 0px
+}
+
+.container h1.blue {
+  color: #0b5199;
+}
+
+.container h1.green {
+  color: #139a3b;
+}
+
+footer p {
+  font-size: 10px;
+}
+
